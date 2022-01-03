@@ -1,4 +1,4 @@
-<h1 align="center">Manera Maltas, Djack Rocha (JuaryR) na area</h1>
+<h1 align="center">Manera Maltas, Djack Rocha (JuaryR) na area.</h1>
 
 
 [![Twitter: DjackRocha](https://img.shields.io/twitter/follow/DjackRocha?style=social)](https://twitter.com/DjackRocha)
@@ -7,14 +7,16 @@
 
 ---
 
-I would say that I'm currently learning **Python**  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>.  I love learning about computer science and Smart Energy Systems.
+I would say that I'm currently learning **Python**  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>. 
+
+ I love learning about computer science and Smart Energy Systems.
 
 
 ### Pesonal stuff:
 
-* ☀️    🔋&ensp; I am a Energy  engineer with focus in **Smart citys**
-* &ensp;&ensp; 💻&ensp;&ensp;Learning  a litter bit about computer science.
-* &ensp;&ensp;&ensp;🔭 &ensp;I’m currently not working. 
+* ☀️ 🏠 🔋 I am a Energy  engineer with focus in **Smart Citys**.
+* &ensp;&ensp; 💻&ensp;&ensp;&ensp;&ensp;Learning  a litter bit about computer science.
+* &ensp;&ensp;&ensp;🔭 &ensp;&ensp;&ensp;I’m currently not working. 
 
 
 
