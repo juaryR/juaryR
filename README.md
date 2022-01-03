@@ -1,4 +1,4 @@
-<h1 align="center">Manera Maltas, Djack Rocha na area (Juary)</h1>
+<h1 align="center">Manera Maltas, Djack Rocha (JuaryR) na area</h1>
 
 
 [![Twitter: DjackRocha](https://img.shields.io/twitter/follow/DjackRocha?style=social)](https://twitter.com/DjackRocha)
