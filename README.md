@@ -16,8 +16,8 @@ I would say that I'm currently learning **Python**  <a href="https://www.python.
 
 * ☀️ 🏠 🔋 I am a Energy  engineer with focus in **Smart Citys**.
 * &ensp;&ensp; 💻&ensp;&ensp;&ensp;&ensp;Learning  a litter bit about computer science.
+* &ensp;&ensp;&ensp; ₿ &ensp;&ensp;&ensp; Exploring the crypto world.
 * &ensp;&ensp;&ensp;🔭 &ensp;&ensp;&ensp;I’m currently not working. 
-
 
 
 
