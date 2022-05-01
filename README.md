@@ -7,17 +7,17 @@
 
 ---
 
-I would say that I'm currently learning **Python**  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>. 
+I'm currently learning **Python**   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a>and **algorithms**. 
 
  I love learning about computer science and Smart Energy Systems.
 
 
 ### Pesonal stuff:
 
+* &ensp;&ensp;&ensp;🔭 &ensp;&ensp;&ensp; Master's student in computer science (UFpel). 
 * ☀️ 🏠 🔋 I am a Energy  engineer with focus in **Smart Citys**.
 * &ensp;&ensp; 💻&ensp;&ensp;&ensp;&ensp;Learning  a litter bit about computer science.
 * &ensp;&ensp;&ensp; ₿ &ensp;&ensp;&ensp; Exploring the crypto world.
-* &ensp;&ensp;&ensp;🔭 &ensp;&ensp;&ensp;I’m currently not working. 
 
 
 
